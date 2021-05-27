@@ -2,9 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+output: html_document
 ---
 
-knitr::include_graphics("/Users/tylerpollard/Documents/ST558/Blog_Profilepic.jpg")
+
+![image](https://user-images.githubusercontent.com/84747565/119757816-8497f600-be73-11eb-804d-14b0bd6a7dfc.png)
 
 Some information about you!
 
