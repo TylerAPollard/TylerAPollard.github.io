@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+knitr::include_graphics("/Users/tylerpollard/Documents/ST558/Blog_Profilepic.jpg")
+
 Some information about you!
 
 ### More Information
@@ -12,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tapollar@ncsu.edu](mailto:tapollar@ncsu.edu)
