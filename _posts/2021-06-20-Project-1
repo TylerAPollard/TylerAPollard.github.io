@@ -1,1 +1,18 @@
+---
+layout: post
+title: Proejct 1 Blog Post
+---
+
+In this first project for the ST558 course I created a vignette that explains how to access various NHL APIs with a corresponding exploratory data analysis.
+
+In this vingette it explains the different functions and their purpose on how to first access and pull data from NHL APIs. It also identifies the possible user inputs to access the desired enpoints. Using these functions, various visuals were created to analyze the data and make insights on the team and players. I found it interesting to see the performance of all the teams based on their division to display what dvision is the best as well as the divsions with the best teams. I also thought it was cool to see the number of skaters for all of my beloved Washington Capitals based on the number of seasons. It shows the loyalty of all the skaters to my franchise (disregard the busineess aspect of the NHL).
+
+The most difficult part of the logic and programming for this project was definitely first understanding the final format of the endpoint call. Once I was able to understand what exaclty needed to be called, I had the knowledge to successfully call the desired data. I also found it difficult to create functions that would be called by other functions with the different user specified input. This casued a lot of frustration but helped me really understand how functions work together and utlizie the capability of function creation.
+
+If I were to redo this project I would begin with creating an outline of the requested outputs. A big struggle of mine was going about the project in a chronological approach without understanding the final output of the vignette. By approaching this project with a final output in mind it would have allowed me to create the base functions used thoughout the entire project instead of creating them as I went on. I also would have started the project much earlier because I underestimated the amount of time needed and questions that arrised.
+
+Overall I reallt enjoyee this project and exploring the data on a sport I love to watch. **GO CAPS**
+
+[Link to GitHub Pages Repo](https://tylerapollard.github.io/ST558-Project-1/)
+[Link to GitHub Repo](https://github.com/TylerAPollard/ST558-Project-1)
 
